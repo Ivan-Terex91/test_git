@@ -1,8 +1,4 @@
-*.o
-*.so
-*.a
-*.exe
-
-*.swp
-
-googletest/
+*.idea
+*.?xt
+!*.txt
+*.[a-g]
